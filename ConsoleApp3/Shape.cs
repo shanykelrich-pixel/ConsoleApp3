@@ -15,7 +15,7 @@ namespace ConsoleApp3
         }
         public virtual double Area()
         {
-            return 0;
+            return 0;//
         }
         public virtual double Perimeter()
         {
